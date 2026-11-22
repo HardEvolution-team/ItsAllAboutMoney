@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "allmoney:blocks/moneycrop_stage_4"
+  }
+}

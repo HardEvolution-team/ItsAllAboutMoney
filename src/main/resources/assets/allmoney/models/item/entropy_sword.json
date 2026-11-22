@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "allmoney:items/entropy_sword"
+  }
+}
