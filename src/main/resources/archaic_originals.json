@@ -1,0 +1,19 @@
+{
+  "_comment": "Where ArchaicLib downloads the original files of this port from. Edit freely; set locked=true to keep your edits when the mod updates. Files go to archaic_originals/ and are checked by sha256.",
+  "port": "allmoney",
+  "version": 3,
+  "locked": false,
+  "files": [
+    {
+      "file": "ItsAllAboutTheMoney-1.1.2 [MC1.7.10].jar",
+      "name": "Its_All_About_Money_Mod_1.7.10.jar (It's All About the Money by Freakin_Sweet)",
+      "sha256": "584cf2b81cf5d3538b2aca29e94803272515acea6fae5158fdf83fea2fa377d9",
+      "size": 69563,
+      "page": "https://www.planetminecraft.com/mod/itsallaboutthemoney-mc1710/",
+      "mirrors": [
+        "scrape:https://www.mediafire.com/file/671b4epaup8d1ad/ItsAllAboutTheMoney.zip href=\"(https://download[0-9]*\\.mediafire\\.com/[^\"]+)\""
+      ],
+      "inner": "ItsAllAboutTheMoney-1.1.2 [MC1.7.10].jar"
+    }
+  ]
+}
